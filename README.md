@@ -11,6 +11,6 @@ Selección dirigida de 15 artículos publicados entre 2020 y 2025. En Scopus se 
 2. En 03_seleccion se documentan la depuración, el piloto y los cruces de referencias. Las hojas del subdirectorio kappa están preparadas para dos evaluaciones independientes.
 3. En 04_calidad se recoge la evidencia extraída para cada criterio y en 05_extraccion se encuentra la matriz de los 15 estudios.
 4. En 06_scripts están el código y los metadatos de la consulta de citas. En 07_figuras están las imágenes del artículo.
-5. En 08_prisma se incluyen el diagrama provisional y la lista de verificación. En 09_ia se documenta el uso de IA.
+5. En 08_prisma están el [diagrama PRISMA de la página 2 del trabajo](https://github.com/luiggi100210-netizen/evidencias-fraude-financiero-utp/blob/main/08_prisma/Flujo_PRISMA_documentado.pdf) y la lista de verificación. En 09_ia se documenta el uso de IA.
 
 Las hojas de consulta pública se prepararon a partir de los archivos del grupo. Se omitieron códigos universitarios y se limitaron los resúmenes bibliográficos. Los identificadores DOI permiten consultar los trabajos en sus fuentes.
